@@ -47,4 +47,4 @@ This repository was created for the usage of the Career Development Center at Ap
 The code and the repository itself was developed fully by Career Guide and Computer Science major Collin Streitman **@CStre** and was
 last updated at the time of the most recent push. 
 
-For questions of concerns, reachout to Appalachian State's Career and Development Center at **careercenter@appstate.edu**.
+For questions or concerns, please reachout to Appalachian State's Career and Development Center at **careercenter@appstate.edu**.
